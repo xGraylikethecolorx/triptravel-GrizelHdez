@@ -1,2 +1,2 @@
 # triptravel-GrizelHdez
-Proyecto Final Mujer Digital sobre una agencia de viajes
+Hola!, esto es parte del Proyecto Final Mujer Digital. Es una pagina sobre una agencia de viajes.
